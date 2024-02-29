@@ -12,6 +12,6 @@ Scoringcard Development: Facilitates the development of scoringcards for credit 
 Usage:
 The BinningProcessor class can be instantiated with a DataFrame containing the data to be processed. It provides a binning method that takes parameters such as the column to be binned, the label column, and thresholds for p-values and minimum bin size. The method returns a WoE grouped table and IV value, aiding in credit risk analysis and decision-making.
 
-This package is essential for credit risk professionals, data scientists, and analysts involved in credit scoring, risk segmentation, and model development for financial institutions and lending organizations.
+This tool is essential for credit risk professionals, data scientists, and analysts involved in credit scoring, risk segmentation, and model development for financial institutions and lending organizations.
 
 (Note: Example run can be found in the Jupyter notebook)
